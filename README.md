@@ -7,7 +7,7 @@ Asooo (*from the Yoruba word "Aṣọ" meaning clothes*) translates complex mete
 
 ---
 
-## ✨ Signature Features
+## Signature Features
 
 ### 1. "Hot Here, Cold There" (Trip Advisory)
 Leaving humid 34°C Lagos at 8:00 AM heading to cool 19°C Jos or high-altitude Plateau?
@@ -40,7 +40,7 @@ Every data point is translated into simple, friendly everyday advice:
 
 ---
 
-## 🎨 Nigerian Seasonal Design System
+## Nigerian Seasonal Design System
 
 Asooo features a warm, editorial layout inspired by Nigerian natural climate shifts and traditional textiles (no generic AI purple/blue glowing blobs):
 
@@ -53,7 +53,7 @@ Asooo features a warm, editorial layout inspired by Nigerian natural climate shi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18.17+ or v20+)
@@ -61,7 +61,7 @@ Asooo features a warm, editorial layout inspired by Nigerian natural climate shi
 
 ### 1. Clone & Navigate
 ```bash
-git clone https://github.com/YOUR_USERNAME/asooo.git
+git clone https://github.com/Dharmie18/asooo.git
 cd asooo
 ```
 
@@ -76,11 +76,11 @@ npm run dev
 ```
 
 Open your browser and navigate to:
-👉 **[http://localhost:3000](http://localhost:3000)**
+**[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Asooo includes a Vitest test suite that validates the deterministic rules engine and guarantees that no meteorological or technical jargon leaks into user-facing copy:
 
@@ -90,7 +90,7 @@ npm test
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/) (App Router, Server Route Handlers)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -102,7 +102,7 @@ npm test
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```
 asooo/
@@ -143,5 +143,5 @@ asooo/
 
 ---
 
-## 📄 License
-MIT © Asooo Project.
+## License
+BeLivIt © Asooo Project.
